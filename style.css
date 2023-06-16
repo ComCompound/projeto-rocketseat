@@ -71,6 +71,7 @@ body * {
   top: 50%;
   left: 0;
   animation: slide-back 0.5s;
+  outline: 8px solid transparent;
   transition: outline 0.5s;
 }
 .light #switch button {
